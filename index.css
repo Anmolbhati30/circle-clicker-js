@@ -1,0 +1,13 @@
+#game {
+    position: relative;
+    transform: translate(12%, 12%);
+    border: solid;
+}
+
+#circle {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
